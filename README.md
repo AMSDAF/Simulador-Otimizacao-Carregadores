@@ -118,4 +118,4 @@ Os resultados foram obtidos através de simulações com múltiplos cenários, u
 ## 📂 Como executar
 
 ```bash
-python nome_do_arquivo.py
+python sim_v5.py
